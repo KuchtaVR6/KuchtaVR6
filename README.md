@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk Kuchta</h1>
-<h3 align="center">An aspiring Software Engineer.</h3>
+<h3 align="center">An aspiring Computer Scientist.</h3>
 
-- 🌱 I’m currently learning **Nextjs**
-
-- 👨‍💻 All of my projects are available at [kuchta.uk](kuchta.uk)
+- 👨‍💻 Some of my projects are available at [kuchta.uk](kuchta.uk)
 
 - 📫 How to reach me **patrick@kuchta.uk**
 
