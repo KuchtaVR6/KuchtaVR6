@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Patryk Kuchta</h1>
-<h3 align="center">An aspiring Computer Scientist.</h3>
+<h3 align="center">An aspiring Artificial Intelligence Scientist.</h3>
 
-- 👨‍💻 Some of my projects are available at [kuchta.uk](kuchta.uk)
+- 👨‍💻 Learn more about me at [kuchta.uk](kuchta.uk)
 
 - 📫 How to reach me **patrick@kuchta.uk**
-
-- ⚡ Fun fact **I'm also a private tutor: kuchta.uk/tutor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
